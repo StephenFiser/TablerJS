@@ -1,1 +1,1 @@
-This is a module you can use to add stripes, highlighting, pagination, and sorting to your tables.
+This is a module you can use to add stripes, highlighting, pagination, and sorting to your tables. It uses the states as filler text.
